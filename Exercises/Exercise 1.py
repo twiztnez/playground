@@ -26,8 +26,8 @@ def get_when_user_turn_100(age, birthday, copies):
 
 
 if __name__ == "__main__":
-    name = input("Skriv in ditt namn: ")
-    age = input("Skriv in din ålder: ")
+    name = input("Vad heter du? ")
+    age = input("Hur gammal är du? ")
     birthday = input("Har du firat din födelsedag i år? (ja/nej). ")
     copies = input("Hur många gånger vill du att jag ska meddela dig? ")
 
